@@ -14,7 +14,7 @@ export default function Home() {
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
-      //zer0day//
+       <!-- Zer0day -->
     </main>
   );
 }
